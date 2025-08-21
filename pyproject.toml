@@ -1,0 +1,7 @@
+[project]
+name = "rust-radix-sort"
+version = "0.1.0"
+description = "Benchmarking my Rust implementation of Radix Sort"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["matplotlib"]
